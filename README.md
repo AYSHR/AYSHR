@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Frontend Developer with strong expertise in Angular. Beyond core frontend work, I’ve contributed to projects involving accessible components, built custom libraries, and developed interactive charts and maps.<br><br>I’m eager to collaborate on projects that tackle real-world challenges, especially customer-facing applications or creative solutions where I can continue to explore, innovate, and grow. I'm interested in AI technologies and their integration into modern applications<br><br>Currently, I’m learning how to integrate AI into frontend applications, and I’m excited about opportunities to collaborate, experiment, and gain hands-on experience in this space.
+I’m a Frontend Developer with expertise in Angular. I’ve contributed to projects involving accessible components, built custom libraries, and developed interactive charts and maps.<br><br>I’m eager to collaborate on projects that tackle real-world challenges, especially customer-facing applications or creative solutions where I can continue to explore, innovate, and grow. I'm interested in AI technologies and their integration into modern applications<br><br>Currently, I’m learning how to integrate AI into frontend applications, and I’m excited about opportunities to collaborate, experiment, and gain hands-on experience in this space.
 
 
 # 💻 Tech Stack:
